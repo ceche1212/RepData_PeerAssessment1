@@ -193,3 +193,6 @@ legend(1,150,legend=c("Weekend","Weekday"),col=c("red","blue"), lty=1)
 
 ![](PA1_template_files/figure-html/weekendVsWeekday-1.png)<!-- -->
 
+
+
+**NOTE:** I am overlaying weekend and weekday on the same chart as I believe it is easier to compare two lines on the same chart instead of two separate charts -  one above the other.
